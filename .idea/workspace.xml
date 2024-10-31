@@ -45,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -79,7 +80,9 @@
       <workItem from="1729736910975" duration="520000" />
       <workItem from="1729738972417" duration="3056000" />
       <workItem from="1730194108798" duration="2424000" />
-      <workItem from="1730205949577" duration="1327000" />
+      <workItem from="1730205949577" duration="2345000" />
+      <workItem from="1730268179218" duration="600000" />
+      <workItem from="1730341259861" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="init: 初次提交，单例 工厂 抽象工厂 建造者模式">
       <created>1729584701986</created>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729742451161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: 添加策略模式">
+      <created>1730207517541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730207517542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +122,7 @@
     <MESSAGE value="init: 初次提交，单例 工厂 抽象工厂 建造者模式" />
     <MESSAGE value="feat: 添加原型模式" />
     <MESSAGE value="feat: 添加适配器模式和外观模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加适配器模式和外观模式" />
+    <MESSAGE value="feat: 添加策略模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加策略模式" />
   </component>
 </project>
