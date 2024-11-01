@@ -110,7 +110,7 @@
       <workItem from="1730205949577" duration="2345000" />
       <workItem from="1730268179218" duration="600000" />
       <workItem from="1730341259861" duration="4708000" />
-      <workItem from="1730447227089" duration="6617000" />
+      <workItem from="1730447227089" duration="6876000" />
     </task>
     <task id="LOCAL-00001" summary="init: 初次提交，单例 工厂 抽象工厂 建造者模式">
       <created>1729584701986</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730347460389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: 完善创建型模式">
+      <created>1730454379304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730454379304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +167,7 @@
     <MESSAGE value="feat: 添加策略模式" />
     <MESSAGE value="feat: 添加责任链模式" />
     <MESSAGE value="feat: 添加责任链模式和模板模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加责任链模式和模板模式" />
+    <MESSAGE value="feat: 完善创建型模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 完善创建型模式" />
   </component>
 </project>
