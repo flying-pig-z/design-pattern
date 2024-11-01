@@ -1,4 +1,4 @@
-package com.flyingpig.creationalPatterns.builder.simpleBuilder;
+package com.flyingpig.creationalPatterns.builder;
 
 /*
     简化版的建造模式，模拟Lombok的@Builder注解

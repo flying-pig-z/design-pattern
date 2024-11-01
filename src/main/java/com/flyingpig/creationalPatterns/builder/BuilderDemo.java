@@ -1,4 +1,4 @@
-package com.flyingpig.creationalPatterns.builder.simpleBuilder;
+package com.flyingpig.creationalPatterns.builder;
 
 // 测试类
 public class BuilderDemo {
